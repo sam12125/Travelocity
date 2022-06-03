@@ -1,0 +1,325 @@
+.payhead{
+    width:90%;
+    margin:auto;
+}
+.payhead>div>h1{
+    color:#0a438b;
+}
+.lowhead{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    align-items: center;
+    gap:30px;
+    box-sizing: border-box;
+    padding: 9px 20px;
+}
+.lowhead>div>p{
+    line-height: 5px;
+}
+
+.lowhead>div>p:first-child{
+    font-weight: 600;
+}
+.emailbox{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    align-items: center;
+    gap:30px;
+    box-sizing: border-box;
+    padding: 7px 20px;
+    margin-top: 20px;
+}
+.emailbox>div>h3,.emailbox>div>p{
+    line-height: 5px;
+}
+.paycontent{
+    display: grid;
+    gap:15px;
+    grid-template-columns: 70% 30%;
+    width: 90%;
+    margin: auto;
+}
+.personicon{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.personicon>h3>span{
+    font-weight: normal;
+    font-size: 17px;
+}
+.loadformbox{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 8px;
+    padding: 25px;
+}
+.done{
+    display: flex;
+    gap:5px;
+    align-items: center;
+    margin-left: 5%;
+    margin-top: -30px;
+   
+}
+
+.done>p{
+    color:green;
+    font-weight: 600;
+}
+.tname{
+    margin-left: 5%;
+}
+.tname>p{
+color:grey;
+font-weight: 600;
+}
+.startform>div>p{
+    color:grey;
+font-weight: 600;
+}
+.startform>div>div>p{
+    color:grey;
+font-weight: 600;
+}
+.tname>select{
+    font-size: 17px;
+    font-weight: 400;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 8px 30px;
+}
+.startform{
+    margin-left: 5%;
+    
+}
+.startform>div{
+    display: flex;
+    gap:20px;
+}
+
+.lastinput{
+    width: 96%;
+    font-weight: 400;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 8px;
+    margin-right: 10px;
+}
+.lastinput2{
+    width: 45%;
+    padding: 8px;
+    font-weight: 400;
+    font-size: 17px;
+    border-radius: 5px;
+
+}
+.finalpay{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 8px;
+    padding: 25px;
+}
+.logobox{
+    display: flex;
+    gap:10px;
+    margin-top: 30px;
+}
+.logobox>img{
+    width: 32.72px;
+    height: 18.85px;
+}
+
+.paymentform>p{
+    color:grey;
+    font-weight: 600;
+    }
+
+.firstname{
+    width:50%;
+    padding: 8px;
+    border-radius: 5px;
+}    
+.firstname~input{
+    width:35%;
+    border-radius: 5px;
+    padding: 8px;
+}
+.paymentform>select{
+    padding: 9px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: lightgrey;
+
+}
+.codebox{
+    display:flex;
+    gap:80px;
+}
+.codebox>div>p{
+    color:grey;
+    font-weight: 600;
+}
+.codebox>div:first-child>input{
+    width:70px;
+    padding: 8px;
+    border-radius: 5px;
+}
+.zip>input{
+    width: 140px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.codebox+div>input{
+width: 20px;
+height: 20px;
+margin-top: 15px;
+}
+.codebox+div>label{
+    font-size: 18px;
+    color: gray;
+    margin-left: 15px;
+}
+.payiconbox{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.payiconbox>p{
+    font-weight: 600;
+}
+.protectbox{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 8px;
+    padding: 25px;
+}
+.protecticon{
+    display: flex;
+    align-items: center;
+    gap:15px;
+}
+.protecticon>h4{
+    width:max-content;
+    color: aliceblue;
+    font-weight: 500;
+    padding: 0px 5px;
+    border-radius: 5px;
+    background-color: darkgreen;
+
+}
+.important{
+ 
+    padding: 15px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+
+
+}
+
+.points{
+    padding-left: 35px;
+}
+.points>p{
+    line-height: 10px;
+}
+.selectprotect{
+    padding-left: 35px;
+}
+.saferadio{
+    background-color: darkgreen;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0px 20px;
+    border-radius: 5px;
+}
+.saferadio>div{
+    display: flex;
+    align-items: center;
+}
+.saferadio>div>input{
+    width: 18px;
+    height: 18px;
+}
+.saferadio+div{
+    background-color: grey;
+    margin-top: 10px;
+    display: flex;
+    
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+.saferadio+div>input{
+    width: 18px ;
+    height: 18px;
+}
+.booking{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 8px;
+    padding: 15px;
+    text-align: justify;
+}
+.booking>div>:first-child{
+    height: 170px;
+    overflow: scroll;
+}
+.due{
+    display: flex;
+    gap:15px;
+    
+    align-items: center;
+   
+
+}
+.due+button{
+    width: 280px;
+    height: 60px;
+    color: White;
+    border: none;
+    background-color: darkgreen;
+   
+}
+.due+button:hover{
+ background-color: #76a501;
+ border: 1px solid black;
+ color: black;
+}
+.cart{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 20px;
+    padding: 15px;
+    text-align: justify;
+}
+.cart>img{
+    width: 100%;
+    height: auto;
+}
+.cart>p{
+    line-height: 9px;
+}
+
+.bill{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 20px;
+    padding: 15px;
+    text-align: justify;
+}
+.bill>h2{
+    border-bottom: 1px solid lightgrey;
+}
+.bill>div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -15px;
+}
+.bill>p{
+    width: max-content;
+    background-color: darkgreen;
+    color:white;
+    padding: 0px 5px;
+    border-radius: 5px;
+    margin-top: -8px;
+}

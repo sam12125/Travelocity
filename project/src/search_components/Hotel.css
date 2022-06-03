@@ -1,0 +1,212 @@
+#main{
+    border:1px solid red;
+    height: 1900px;
+    width:83%;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    margin-top: 50px;
+
+}
+#Left{
+    display: flex;
+    border: 1px solid blue;
+    font-size:small;
+    height: 1900px;
+    width:30%;
+}
+#Right{
+    display: flex;
+    border: 1px solid yellowgreen;
+    height: 1900px;
+    
+    width:100%;
+    margin-left: 10px;
+}
+
+
+
+
+#Hotels {
+    display: grid;
+    grid-template-columns: repeat(1,100%);
+    box-sizing: border-box;
+    padding: 20px;
+    gap: 15px;
+  }
+  #Hotels > div {
+    border-radius: 10px;
+    overflow:hidden;
+    box-sizing: border-box;
+    /* padding: 15px; */
+    display: flex;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+    justify-content: space-between;
+  }
+  #Hotels > div > :nth-child(1) > img {
+    width: 250px;
+    height: 180px;
+  }
+  #Hotels > div > :nth-child(2) {
+    margin-left: 15px;
+  }
+  
+  #Hotels > div > :nth-child(2) > :nth-child(1) {
+    margin-top: 0px;
+    color: brown;
+  }
+  #Hotels > div > :nth-child(2) > :nth-child(2) {
+    margin-top: -15px;
+    color: gray;
+    font-weight: 500;
+  }
+  #Hotels > div > :nth-child(2) > :nth-child(3) {
+    color: gray;
+    font-weight: 500;
+  }
+  #Hotels > div > :nth-child(2) > :nth-child(4) {
+    color: gray;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+  }
+  #Hotels > div > :nth-child(2) > :nth-child(4) > div {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 0px 10px;
+  }
+  #Hotels > div > :nth-child(2) > :nth-child(5) {
+    color: gray;
+    font-weight: 500;
+  }
+  #Hotels > div > :nth-child(3) {
+    width: 80px;
+    text-align: right;
+    display: flex;
+    justify-content: center;
+    margin-top: 140px;
+  
+  }
+  #Hotels > div > :nth-child(3) > :nth-child(1) {
+    margin-left: 15px;
+    width: 60px;
+    color: black;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+    justify-content: center;
+    font-weight: 800;
+    margin-bottom: 15px;
+    font-size: 21px;
+    /* background-color: rgb(107, 240, 107); */
+    
+  }
+  #Hotels > div > :nth-child(3) > :nth-child(2) {
+    color: gray;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  #Hotels > div > :nth-child(3) > :nth-child(3) {
+    font-size: 12px;
+    color: gray;
+    font-weight: 500;
+  }
+
+  #Hotels>div>p{
+      color:grey;
+  }
+  #Hotels>div>select{
+      font-size: 18px;
+      width: 40%;
+      border: none;
+      outline-color: #0a438b;
+  }
+
+  #star{
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      width:70%;
+      gap:6px;
+  }
+
+  #btn1{
+    height: 50px;
+    width: 50px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+   }
+   
+
+ 
+   #popsort>div>input{
+    width:20px;
+    height: 20px;
+    border: 3px solid grey;    
+   }
+  
+
+   #popsort>div{
+       display: flex;
+       gap:10px;
+       align-items: center;
+       
+       height: 50px;
+       margin-top: -10px;
+   }
+
+
+   #popsort>div>p{
+       color:grey;
+       
+   }
+   #costsort,#ratingsort{
+    line-height: 2em;
+  }
+
+  .signupbox{
+    width:28%;
+    margin: auto;
+  }
+ 
+  .signupinput{
+   width: 100%;
+   padding: 16px 12px ;
+   border-radius: 10px;
+   margin-top: 15px;
+   font-size: 20px;
+   text-align: justify;
+  }
+  .signupsubmit{
+    width: 106%;
+    padding: 16px 25px ;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 20px;
+    color:white;
+    background-color: #0a438b;
+    border: none;
+    font-weight: 500;
+  }
+  .signupcheck{
+    width:20px;
+    height: 20px;
+    margin-top: 50px;
+  }
+  .signupcheck+label{
+    font-size: 18px;
+  }
+
+  #sp1:hover{
+   color:#0a438b;
+  text-decoration: underline;
+  }
+  #endsignup{
+    text-align: center;
+  }
+  

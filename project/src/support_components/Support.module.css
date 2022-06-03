@@ -1,0 +1,80 @@
+.services{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    color:#004074;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+}
+.services>p:hover{
+text-decoration: underline;
+}
+.imgservice{
+    background: url("https://th.bing.com/th/id/R.b551bd2eb1c6b4d2d0705f518662eb57?rik=hirJmWcXn6e3kw&riu=http%3a%2f%2fwww.covermytimeline.com%2fwp-content%2fuploads%2f2012%2f04%2fnature-beautiful-mountains-lake-facebook-timeline-cover.jpg&ehk=DGJsziQZnEhUd65rMR0IbpOYpJ0Hl68w03Zb40scJto%3d&risl=&pid=ImgRaw&r=0");
+    width:100%;
+    height: 200px;
+    background-size: 100% 100%;
+    padding-left: 20%;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.imgservice>div{
+    display: flex;
+    gap:100px;
+    align-items: center;
+}
+.imgservice>div>h1{
+    color:white;
+}
+.imgservice>div>input{
+    width: 30%;
+     padding: 1%;
+     border-radius: 7px;
+     outline: none;
+     border: none;
+}
+.agentbox{
+    width:100%;
+    padding: 30px 100px;
+    box-sizing: border-box;
+    background-color: #d5e7fb;
+}
+.agent{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-between;
+}
+.agent>div{
+    display: flex;
+    gap:5px;
+    background-color: white;
+    align-items: center;
+    padding: 0px 15px;
+    box-shadow: rgba(228, 183, 183, 0.08) 0px 4px 12px;
+}
+.topicbox{
+    width: 90%;
+    margin: auto;
+}
+
+.topics{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    gap:50px;
+}
+.topics>div>div{
+    margin-top: 3px;
+}
+.topics>div>div:hover{
+    background-color: #d5e7fb;
+    border:1px solid #004074;
+}
+.addproperty{
+    border:1px solid #004074;
+    color: #004074;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    margin-top: 70px;
+    padding: 5px 15px;
+}

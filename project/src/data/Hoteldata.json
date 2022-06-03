@@ -1,0 +1,225 @@
+{
+    "Mumbaidata": [
+      {
+        "id": "cIRrd2Fi7j9A7YeLf8wqQ",
+        "url": "https://images.trvl-media.com/hotels/20000000/19460000/19458500/19458493/a7678da8.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "The Taj Mahal Palace",
+        "Location": "Mumbai",
+        "Cost": 318,
+        "Rating": 4.7,
+        "Review": 201
+      },
+      {
+        "id": "_Fv3yqMCSkj-gT44LjKsC",
+        "url": "https://images.trvl-media.com/hotels/1000000/20000/17800/17773/95c36a58.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "The Leela Mumbai",
+        "Location": "Mumbai",
+        "Cost": 247,
+        "Rating": 4.5,
+        "Review": 996
+      },
+      {
+        "id": "gCbbaVPq_J1LaFD6vLoZm",
+        "url": "https://images.trvl-media.com/hotels/1000000/540000/533800/533762/ddde7a7c.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "Grand Hyatt Mumbai",
+        "Location": "Mumbai",
+        "Cost": 196,
+        "Rating": 4.5,
+        "Review": 997
+      },
+      {
+        "id": "nQWU3GwTec9h_yNe3W9zP",
+        "url": "https://images.trvl-media.com/hotels/2000000/1360000/1351900/1351876/1ac59945.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "Taj Mahal Tower",
+        "Location": "Mumbai",
+        "Cost": 205,
+        "Rating": 4.8,
+        "Review": 997
+      },
+      {
+        "id": "XKRkp9XGt9AVm3gjen6Au",
+        "url": "https://images.trvl-media.com/hotels/1000000/10000/4800/4772/b3d8a21b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "The Oberoi Mumbai",
+        "Location": "Mumbai",
+        "Cost": 188,
+        "Rating": 4.8,
+        "Review": 507
+      },
+      {
+        "id": "DeJeQf5oONuzI4-QsV8yp",
+        "url": "https://images.trvl-media.com/hotels/1000000/50000/49300/49261/a652d6bb.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "Novotel Mumbai",
+        "Location": "Mumbai",
+        "Cost": 130,
+        "Rating": 3.5,
+        "Review": 666
+      },
+      {
+        "id": "cL7f1qlxkYtqDb_hj2GjO",
+        "url": "https://images.trvl-media.com/hotels/2000000/1620000/1619200/1619199/b8d2657d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "Four Seasons Hotel ",
+        "Location": "Worli",
+        "Cost": 211,
+        "Rating": 4.5,
+        "Review": 717
+      },
+      {
+        "id": "xDGaS6VIDn6i7e-hYH174",
+        "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/900000/895300/895247/00825dba_b.jpg",
+        "Name": "The Westin",
+        "Location": "Powai,Mumbai",
+        "Cost": 135,
+        "Rating": 4.3,
+        "Review": 246
+      },
+      {
+        "id": "vcZEpTLyUqsm-BvahUw-n",
+        "url": "https://images.trvl-media.com/hotels/5000000/4020000/4011600/4011561/a9cedc2f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "ibis Mumbai",
+        "Location": "Vile Parle,Mumbai",
+        "Cost": 111,
+        "Rating": 3.6,
+        "Review": 374
+      },
+      {
+        "id": "Oeb-26EgDSWdMZ3clV3qI",
+        "url": "https://images.trvl-media.com/hotels/1000000/800000/799000/798914/087c358f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "Name": "Sun n Sand",
+        "Location": "Mumbai",
+        "Cost": 136,
+        "Rating": 3.7,
+        "Review": 236
+      }
+    ],
+
+    "goaData":[{
+      "id": "pA3iVRbEGGJnPMUV-QraS",
+      "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/70000000/69560000/69551900/69551801/w4000h2649x0y0-f2738e1e_b.jpg",
+      "Name": "FairField By Marriott",
+      "Location": "Goa",
+      "Cost": "125",
+      "Rating": "4.4",
+      "Review": "10",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "ZJpaimcdGykV_rJd46PQr",
+      "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15440000/15439200/15439133/71b7e1a3_b.jpg",
+      "Name": "W Goa",
+      "Location": "Chapora,Goa",
+      "Cost": "288",
+      "Rating": "4.2",
+      "Review": "86",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "_WJYoyg_8AL1uniqyZ_it",
+      "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/530000/523000/522986/546c8e4c_b.jpg",
+      "Name": "Marriott Resort ",
+      "Location": "Goa",
+      "Cost": "299",
+      "Rating": "4.5",
+      "Review": "377",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "GKSNXWteTcc7UDgpk7k-w",
+      "url": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/22000000/21430000/21429100/21429037/7b9e53ce_b.jpg",
+      "Name": "Double Tree by Hilton ",
+      "Location": "Goa",
+      "Cost": "183",
+      "Rating": "4.2",
+      "Review": "52",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "0pgHWmXO81-k6LYMb7HQ2",
+      "url": "https://images.trvl-media.com/hotels/1000000/530000/526400/526340/f5764d77.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "Name": "Taj",
+      "Location": "Goa",
+      "Cost": "236",
+      "Rating": "4.5",
+      "Review": "319",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "crSf_3LdGvrEXH4eQ18jA",
+      "url": "https://images.trvl-media.com/hotels/1000000/440000/438400/438378/bdbe16ac.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "Name": "The Leela",
+      "Location": "Goa",
+      "Cost": "435",
+      "Rating": "4.7",
+      "Review": "495",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "MeRjCTfjWke27nXS8_jXZ",
+      "url": "https://images.trvl-media.com/hotels/67000000/66040000/66031300/66031217/b97c090e.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "Name": "The Westin",
+      "Location": "Goa",
+      "Cost": "345",
+      "Rating": "4.6",
+      "Review": "14",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "2SovisZgqdXoM4VZhyGRI",
+      "url": "https://images.trvl-media.com/hotels/14000000/13120000/13118000/13117984/94243d35.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "Name": "Ibis",
+      "Location": "Goa",
+      "Cost": "93",
+      "Rating": "3.1",
+      "Review": "161",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "BHtOsX5XS5GgbinSW0mfz",
+      "url": "https://images.trvl-media.com/hotels/19000000/18080000/18071100/18071043/4759f8c2.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "Name": "Silver Sand",
+      "Location": "Goa",
+      "Cost": "55",
+      "Rating": "2.6",
+      "Review": "196",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    },
+    {
+      "id": "iuRMz0LGMukST9HiqxykS",
+      "url": "https://images.trvl-media.com/hotels/2000000/1040000/1039900/1039834/11473640.jpg?impolicy=resizecrop&rw=455&ra=fit",
+      "Name": "Park In",
+      "Location": "Goa",
+      "Cost": "98",
+      "Rating": "3.2",
+      "Review": "71",
+      "img1":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/15989935.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img2":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/113f6bd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img3":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/8e6ef645.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "img4":"https://images.trvl-media.com/hotels/77000000/76270000/76266500/76266453/f5a5acd9.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    }]
+  }
